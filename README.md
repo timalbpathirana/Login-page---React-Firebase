@@ -21,7 +21,7 @@
 - Run , npm start
 
 ### Screenshot
-![Untitled design](https://user-images.githubusercontent.com/68840709/115841090-c7734200-a45f-11eb-9546-83af942f0af7.png)
+![screenshot](https://user-images.githubusercontent.com/68840709/115842411-24232c80-a461-11eb-9906-8756b26990bc.png)
 
 
 #### For any inquiries, contact me on my linkedIn @timalpathirana
