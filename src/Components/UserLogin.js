@@ -67,7 +67,7 @@ export default function SignIn(props) {
           <LockOutlinedIcon />
         </Avatar>
         <Typography component="h1" variant="h5">
-          Sign in
+          Welcome Back!
         </Typography>
         <form className={classes.form} noValidate>
           <TextField
