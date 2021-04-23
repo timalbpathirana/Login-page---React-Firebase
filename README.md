@@ -2,7 +2,7 @@
 ![banner_login](https://user-images.githubusercontent.com/68840709/115839950-83cc0880-a45e-11eb-83ca-f76f9cc0496d.png)
 
 
-#### I build this using React.js and Material UI libary. 
+#### I build this using React.js and Material UI library. 
 ### Features-
 - Using react useState and useEffect hooks to get and set states.
 - Authenticating the user and password with Firebase.
